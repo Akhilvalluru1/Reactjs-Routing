@@ -40,3 +40,32 @@ git config user.name - for email
 To show all settings in one shot:
 ------------------------------------------
 git config --list
+
+
+
+
+cd Desktop
+cd 'Git Config'/
+git config --global user.name "Akhilvalluru1"
+git config --global user.email"valluruakhilkumar@gmail.com"
+git config user.name
+git config user.email
+git config --list
+
+Creating SSH key
+
+ssh-keygen -o -t rsa -C "your@email.com"
+Git bash 
+Enter 
+Enter
+Enter
+Creating SSH Key in Laptop
+Rup file name – copy
+And create ssh key in git hub account
+
+
+npm install touch-cli -g
+
+https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
+
+https://www.inmotionhosting.com/support/server/ssh/how-to-add-ssh-keys-to-your-github-account/
